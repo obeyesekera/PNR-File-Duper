@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNR-File-Duper", "PNR-File-Duper\PNR-File-Duper.csproj", "{90570F2A-C561-4411-9F04-F7C20061BE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90570F2A-C561-4411-9F04-F7C20061BE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90570F2A-C561-4411-9F04-F7C20061BE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90570F2A-C561-4411-9F04-F7C20061BE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90570F2A-C561-4411-9F04-F7C20061BE16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A78DE206-F568-4AA5-96FA-D41D6624BFB1}
+	EndGlobalSection
+EndGlobal

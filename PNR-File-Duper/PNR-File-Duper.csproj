@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PNR_File_Gen</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>flight.ico</ApplicationIcon>
+    <StartupObject>PNR_File_Gen.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
